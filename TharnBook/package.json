@@ -1,0 +1,7 @@
+{
+	"name": "TharnBook",
+	"private": true,
+	"scripts": {
+	"start": "node app"
+	}
+}
